@@ -101,6 +101,10 @@ p {
   justify-content: space-around;
 }
 
+.sectionOne div h2 {
+  padding: 4% 0;
+}
+
 .sectionOne div hr {
   width: 90%;
 }
@@ -108,6 +112,10 @@ p {
 .sectionTwo {
   display: flex;
   justify-content: space-around;
+}
+
+.sectionTwo div h2 {
+  padding: 4% 0;
 }
 
 .sectionTwo div hr {
