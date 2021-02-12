@@ -78,7 +78,7 @@ p {
 .container header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
 }
 
 .nav {
@@ -94,6 +94,24 @@ p {
 
 .about img {
   padding: 2% 0;
+}
+
+.sectionOne {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sectionOne div hr {
+  width: 90%;
+}
+
+.sectionTwo {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sectionTwo div hr {
+  width: 90%;
 }
 
 footer {
